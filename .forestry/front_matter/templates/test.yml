@@ -1,0 +1,10 @@
+---
+label: Test
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+  default: default
+- type: text
+  name: Test_Name
+  label: label
